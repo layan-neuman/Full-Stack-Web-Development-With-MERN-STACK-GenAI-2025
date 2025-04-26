@@ -1,22 +1,32 @@
 # Full-Stack-Web-Development-With-MERN-STACK-GenAI-2025
 Full Stack Web Development with MERN Stack, GenAI, AI Prompting, Cursor AI, Node.js/Express, React, MongoDB, JavaScript
+## 📚 Course Outline
+### Frontend Development
 
-MASTERING HTML || HYPERTEXT MARKUP LANGUAGE
-MASTERING CSS BASICS
-MASTERING CSS || SELECTORS & BOX MODEL
-CSS POSITIOING & FLEXBOX
-RESPONSIVE DESIGN
-MASTERING BOOTSTRAP 5
-GETTING STARTED WITH JAVASCRIPT
-ADVANCED JAVASCRIPT | MASTERING FUNCTIONS
-ADVANCED JAVASCRIPT | DOM - SELECTING ELEMENTS
-JAVASCRIPT | MASTERING CONTROL STRUCTURES & LOOPS
-MASTERING JAVASCRIPT DATA STRUCTURES (ARRAYS & OBJECTS)
-JAVASCRIPT DOM PROJECTS
-JAVASCRIPT ADVANCED | ES6
-JAVASCRIPT ADVANCED | DOM TRANSVERSAL
-JAVASCRIPT ADVANCED | DOM EVENTS
-JAVASCRIPT ASYNCHRONOUS PROGRAMMING
+- **MASTERING HTML** | HyperText Markup Language
+- **MASTERING CSS BASICS**
+- **MASTERING CSS** | Selectors & Box Model
+- **CSS Positioning & Flexbox**
+- **Responsive Design**
+- **MASTERING Bootstrap 5**
+
+### JavaScript Essentials
+
+- **Getting Started with JavaScript**
+- **Advanced JavaScript** | Mastering Functions
+- **Advanced JavaScript** | DOM - Selecting Elements
+- **JavaScript** | Mastering Control Structures & Loops
+- **Mastering JavaScript Data Structures** (Arrays & Objects)
+
+### JavaScript Advanced Projects
+
+- **JavaScript DOM Projects**
+- **JavaScript Advanced** | ES6
+- **JavaScript Advanced** | DOM Traversal
+- **JavaScript Advanced** | DOM Events
+- **JavaScript Asynchronous Programming**
+
+---
 
 
 
